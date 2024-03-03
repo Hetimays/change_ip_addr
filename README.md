@@ -1,2 +1,6 @@
 # change_ip_addr
-this is bat for change ip address
+Windowsのみ使用できます。
+管理者権限で実行してください。
+
+環境に合わせて、bat内のIFの変数名を対応するものに変えてください。
+
